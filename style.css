@@ -1,0 +1,39 @@
+* {
+    box-sizing:  border-box;
+}
+
+body {
+    width:100%;
+    max-width: 1000px;
+}
+
+#root {
+    width: 800px;
+    height: 1000px;
+    border: 2px solid chocolate;
+    ciolor: brown;
+    opacity: 0.5;
+}
+
+label {
+    background-color: brown;
+    color: dimgrey;
+    width:80px;
+    height: 20px;
+    top:10%;
+}
+
+input {
+    color: darkgreen;
+    background-color: black;
+    width: 96px;
+    height: 25px;
+    top: 15%
+}
+
+form {
+    width: 500px;
+    height: 100%;
+    color: antiquewhite;
+}
+
